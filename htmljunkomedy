@@ -3,6 +3,7 @@
 <head>
   <meta charset="UTF-8"/>
   <title> Junkomedy - For all your junk joke needs.</title>
+  <link href="junkomedy/cssjunkomedy" type="text/css" rel="stylesheet">
 </head>
 <body>
 <h1>Have you ever heard a joke that you love/hate? That's us.</h1>
